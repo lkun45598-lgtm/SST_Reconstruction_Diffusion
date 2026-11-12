@@ -1,0 +1,12 @@
+{
+  "run": "../runs/jaxa_temporal12",
+  "out": "../runs/progressive_cases",
+  "steps": 32, "U": 2, "seed": 0,
+  "rows": [43869, 34443, 50443, 28143],
+  "n_cases": 4, "selection_seed": 7, "obs_frac_range": [0.25, 0.65],
+  "stage_progress": {"early": 0.25, "middle": 0.5, "late": 0.75},
+  "stage_levels": null,
+  "state_range": 4.0,
+  "state_scale": "cin", "sigma_data": 0.5, "state_range_scaled": 4.0, "sst_cmap": "weather", "range_mode": "per_case", "range_percentiles": [1, 99], "sst_cmap_trim": [0.06, 0.94],
+  "sst_range": null
+}
